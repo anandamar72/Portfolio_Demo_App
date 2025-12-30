@@ -12,50 +12,50 @@
 			containerPortal = 05A6EEC92F0425EE005FEE45 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 05A6EED02F0425EE005FEE45;
-			remoteInfo = PortfolioDemoApp;
+			remoteInfo = AnandDemo;
 		};
 		05A6EEF22F0425F0005FEE45 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 05A6EEC92F0425EE005FEE45 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 05A6EED02F0425EE005FEE45;
-			remoteInfo = PortfolioDemoApp;
+			remoteInfo = AnandDemo;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		05A6EED12F0425EE005FEE45 /* PortfolioDemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PortfolioDemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		05A6EEE72F0425F0005FEE45 /* PortfolioDemoAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PortfolioDemoAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		05A6EEF12F0425F0005FEE45 /* PortfolioDemoAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PortfolioDemoAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		05A6EED12F0425EE005FEE45 /* AnandDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnandDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		05A6EEE72F0425F0005FEE45 /* AnandDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnandDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		05A6EEF12F0425F0005FEE45 /* AnandDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnandDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		05A6EEF92F0425F0005FEE45 /* Exceptions for "PortfolioDemoApp" folder in "PortfolioDemoApp" target */ = {
+		05A6EEF92F0425F0005FEE45 /* Exceptions for "AnandDemo" folder in "AnandDemo" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 05A6EED02F0425EE005FEE45 /* PortfolioDemoApp */;
+			target = 05A6EED02F0425EE005FEE45 /* AnandDemo */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		05A6EED32F0425EE005FEE45 /* PortfolioDemoApp */ = {
+		05A6EED32F0425EE005FEE45 /* AnandDemo */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				05A6EEF92F0425F0005FEE45 /* Exceptions for "PortfolioDemoApp" folder in "PortfolioDemoApp" target */,
+				05A6EEF92F0425F0005FEE45 /* Exceptions for "AnandDemo" folder in "AnandDemo" target */,
 			);
-			path = PortfolioDemoApp;
+			path = AnandDemo;
 			sourceTree = "<group>";
 		};
-		05A6EEEA2F0425F0005FEE45 /* PortfolioDemoAppTests */ = {
+		05A6EEEA2F0425F0005FEE45 /* AnandDemoTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PortfolioDemoAppTests;
+			path = AnandDemoTests;
 			sourceTree = "<group>";
 		};
-		05A6EEF42F0425F0005FEE45 /* PortfolioDemoAppUITests */ = {
+		05A6EEF42F0425F0005FEE45 /* AnandDemoUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PortfolioDemoAppUITests;
+			path = AnandDemoUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -88,9 +88,9 @@
 		05A6EEC82F0425EE005FEE45 = {
 			isa = PBXGroup;
 			children = (
-				05A6EED32F0425EE005FEE45 /* PortfolioDemoApp */,
-				05A6EEEA2F0425F0005FEE45 /* PortfolioDemoAppTests */,
-				05A6EEF42F0425F0005FEE45 /* PortfolioDemoAppUITests */,
+				05A6EED32F0425EE005FEE45 /* AnandDemo */,
+				05A6EEEA2F0425F0005FEE45 /* AnandDemoTests */,
+				05A6EEF42F0425F0005FEE45 /* AnandDemoUITests */,
 				05A6EED22F0425EE005FEE45 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -98,9 +98,9 @@
 		05A6EED22F0425EE005FEE45 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				05A6EED12F0425EE005FEE45 /* PortfolioDemoApp.app */,
-				05A6EEE72F0425F0005FEE45 /* PortfolioDemoAppTests.xctest */,
-				05A6EEF12F0425F0005FEE45 /* PortfolioDemoAppUITests.xctest */,
+				05A6EED12F0425EE005FEE45 /* AnandDemo.app */,
+				05A6EEE72F0425F0005FEE45 /* AnandDemoTests.xctest */,
+				05A6EEF12F0425F0005FEE45 /* AnandDemoUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,9 +108,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		05A6EED02F0425EE005FEE45 /* PortfolioDemoApp */ = {
+		05A6EED02F0425EE005FEE45 /* AnandDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 05A6EEFA2F0425F0005FEE45 /* Build configuration list for PBXNativeTarget "PortfolioDemoApp" */;
+			buildConfigurationList = 05A6EEFA2F0425F0005FEE45 /* Build configuration list for PBXNativeTarget "AnandDemo" */;
 			buildPhases = (
 				05A6EECD2F0425EE005FEE45 /* Sources */,
 				05A6EECE2F0425EE005FEE45 /* Frameworks */,
@@ -121,18 +121,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				05A6EED32F0425EE005FEE45 /* PortfolioDemoApp */,
+				05A6EED32F0425EE005FEE45 /* AnandDemo */,
 			);
-			name = PortfolioDemoApp;
+			name = AnandDemo;
 			packageProductDependencies = (
 			);
-			productName = PortfolioDemoApp;
-			productReference = 05A6EED12F0425EE005FEE45 /* PortfolioDemoApp.app */;
+			productName = AnandDemo;
+			productReference = 05A6EED12F0425EE005FEE45 /* AnandDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		05A6EEE62F0425F0005FEE45 /* PortfolioDemoAppTests */ = {
+		05A6EEE62F0425F0005FEE45 /* AnandDemoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 05A6EEFF2F0425F0005FEE45 /* Build configuration list for PBXNativeTarget "PortfolioDemoAppTests" */;
+			buildConfigurationList = 05A6EEFF2F0425F0005FEE45 /* Build configuration list for PBXNativeTarget "AnandDemoTests" */;
 			buildPhases = (
 				05A6EEE32F0425F0005FEE45 /* Sources */,
 				05A6EEE42F0425F0005FEE45 /* Frameworks */,
@@ -144,18 +144,18 @@
 				05A6EEE92F0425F0005FEE45 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				05A6EEEA2F0425F0005FEE45 /* PortfolioDemoAppTests */,
+				05A6EEEA2F0425F0005FEE45 /* AnandDemoTests */,
 			);
-			name = PortfolioDemoAppTests;
+			name = AnandDemoTests;
 			packageProductDependencies = (
 			);
-			productName = PortfolioDemoAppTests;
-			productReference = 05A6EEE72F0425F0005FEE45 /* PortfolioDemoAppTests.xctest */;
+			productName = AnandDemoTests;
+			productReference = 05A6EEE72F0425F0005FEE45 /* AnandDemoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		05A6EEF02F0425F0005FEE45 /* PortfolioDemoAppUITests */ = {
+		05A6EEF02F0425F0005FEE45 /* AnandDemoUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 05A6EF022F0425F0005FEE45 /* Build configuration list for PBXNativeTarget "PortfolioDemoAppUITests" */;
+			buildConfigurationList = 05A6EF022F0425F0005FEE45 /* Build configuration list for PBXNativeTarget "AnandDemoUITests" */;
 			buildPhases = (
 				05A6EEED2F0425F0005FEE45 /* Sources */,
 				05A6EEEE2F0425F0005FEE45 /* Frameworks */,
@@ -167,13 +167,13 @@
 				05A6EEF32F0425F0005FEE45 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				05A6EEF42F0425F0005FEE45 /* PortfolioDemoAppUITests */,
+				05A6EEF42F0425F0005FEE45 /* AnandDemoUITests */,
 			);
-			name = PortfolioDemoAppUITests;
+			name = AnandDemoUITests;
 			packageProductDependencies = (
 			);
-			productName = PortfolioDemoAppUITests;
-			productReference = 05A6EEF12F0425F0005FEE45 /* PortfolioDemoAppUITests.xctest */;
+			productName = AnandDemoUITests;
+			productReference = 05A6EEF12F0425F0005FEE45 /* AnandDemoUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -199,7 +199,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 05A6EECC2F0425EE005FEE45 /* Build configuration list for PBXProject "PortfolioDemoApp" */;
+			buildConfigurationList = 05A6EECC2F0425EE005FEE45 /* Build configuration list for PBXProject "AnandDemo" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -213,9 +213,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				05A6EED02F0425EE005FEE45 /* PortfolioDemoApp */,
-				05A6EEE62F0425F0005FEE45 /* PortfolioDemoAppTests */,
-				05A6EEF02F0425F0005FEE45 /* PortfolioDemoAppUITests */,
+				05A6EED02F0425EE005FEE45 /* AnandDemo */,
+				05A6EEE62F0425F0005FEE45 /* AnandDemoTests */,
+				05A6EEF02F0425F0005FEE45 /* AnandDemoUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -271,12 +271,12 @@
 /* Begin PBXTargetDependency section */
 		05A6EEE92F0425F0005FEE45 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 05A6EED02F0425EE005FEE45 /* PortfolioDemoApp */;
+			target = 05A6EED02F0425EE005FEE45 /* AnandDemo */;
 			targetProxy = 05A6EEE82F0425F0005FEE45 /* PBXContainerItemProxy */;
 		};
 		05A6EEF32F0425F0005FEE45 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 05A6EED02F0425EE005FEE45 /* PortfolioDemoApp */;
+			target = 05A6EED02F0425EE005FEE45 /* AnandDemo */;
 			targetProxy = 05A6EEF22F0425F0005FEE45 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -291,7 +291,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = TBQ7WA238N;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = PortfolioDemoApp/Info.plist;
+				INFOPLIST_FILE = AnandDemo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -302,7 +302,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = anand.amar.PortfolioDemoApp;
+				PRODUCT_BUNDLE_IDENTIFIER = anand.amar.AnandDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -323,7 +323,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = TBQ7WA238N;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = PortfolioDemoApp/Info.plist;
+				INFOPLIST_FILE = AnandDemo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -334,7 +334,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = anand.amar.PortfolioDemoApp;
+				PRODUCT_BUNDLE_IDENTIFIER = anand.amar.AnandDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -477,7 +477,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 26.1;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = anand.amar.PortfolioDemoAppTests;
+				PRODUCT_BUNDLE_IDENTIFIER = anand.amar.AnandDemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -485,7 +485,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PortfolioDemoApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PortfolioDemoApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AnandDemo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AnandDemo";
 			};
 			name = Debug;
 		};
@@ -499,7 +499,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 26.1;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = anand.amar.PortfolioDemoAppTests;
+				PRODUCT_BUNDLE_IDENTIFIER = anand.amar.AnandDemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -507,7 +507,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PortfolioDemoApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PortfolioDemoApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AnandDemo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AnandDemo";
 			};
 			name = Release;
 		};
@@ -519,7 +519,7 @@
 				DEVELOPMENT_TEAM = TBQ7WA238N;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = anand.amar.PortfolioDemoAppUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = anand.amar.AnandDemoUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -527,7 +527,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = PortfolioDemoApp;
+				TEST_TARGET_NAME = AnandDemo;
 			};
 			name = Debug;
 		};
@@ -539,7 +539,7 @@
 				DEVELOPMENT_TEAM = TBQ7WA238N;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = anand.amar.PortfolioDemoAppUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = anand.amar.AnandDemoUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -547,14 +547,14 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = PortfolioDemoApp;
+				TEST_TARGET_NAME = AnandDemo;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		05A6EECC2F0425EE005FEE45 /* Build configuration list for PBXProject "PortfolioDemoApp" */ = {
+		05A6EECC2F0425EE005FEE45 /* Build configuration list for PBXProject "AnandDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				05A6EEFD2F0425F0005FEE45 /* Debug */,
@@ -563,7 +563,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		05A6EEFA2F0425F0005FEE45 /* Build configuration list for PBXNativeTarget "PortfolioDemoApp" */ = {
+		05A6EEFA2F0425F0005FEE45 /* Build configuration list for PBXNativeTarget "AnandDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				05A6EEFB2F0425F0005FEE45 /* Debug */,
@@ -572,7 +572,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		05A6EEFF2F0425F0005FEE45 /* Build configuration list for PBXNativeTarget "PortfolioDemoAppTests" */ = {
+		05A6EEFF2F0425F0005FEE45 /* Build configuration list for PBXNativeTarget "AnandDemoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				05A6EF002F0425F0005FEE45 /* Debug */,
@@ -581,7 +581,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		05A6EF022F0425F0005FEE45 /* Build configuration list for PBXNativeTarget "PortfolioDemoAppUITests" */ = {
+		05A6EF022F0425F0005FEE45 /* Build configuration list for PBXNativeTarget "AnandDemoUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				05A6EF032F0425F0005FEE45 /* Debug */,

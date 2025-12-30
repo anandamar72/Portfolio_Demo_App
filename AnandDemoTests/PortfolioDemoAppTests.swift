@@ -1,14 +1,14 @@
 //
-//  PortfolioDemoAppTests.swift
-//  PortfolioDemoAppTests
+//  AnandDemoTests.swift
+//  AnandDemoTests
 //
 //  Created by Anand Amar on 30/12/25.
 //
 
 import XCTest
-@testable import PortfolioDemoApp
+@testable import AnandDemo
 
-final class PortfolioDemoAppTests: XCTestCase {
+final class AnandDemoTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

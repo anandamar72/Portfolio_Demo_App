@@ -1,12 +1,12 @@
 //
 //  InvestmentOverviewTests.swift
-//  PortfolioDemoAppTests
+//  AnandDemoTests
 //
 //  Created by Anand Amar on 30/12/25.
 //
 
 import XCTest
-@testable import PortfolioDemoApp
+@testable import AnandDemo
 
 final class InvestmentOverviewTests: XCTestCase {
     

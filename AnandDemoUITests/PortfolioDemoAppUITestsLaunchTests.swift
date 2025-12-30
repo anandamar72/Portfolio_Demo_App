@@ -1,13 +1,13 @@
 //
-//  PortfolioDemoAppUITestsLaunchTests.swift
-//  PortfolioDemoAppUITests
+//  AnandDemoUITestsLaunchTests.swift
+//  AnandDemoUITests
 //
 //  Created by Anand Amar on 30/12/25.
 //
 
 import XCTest
 
-final class PortfolioDemoAppUITestsLaunchTests: XCTestCase {
+final class AnandDemoUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
